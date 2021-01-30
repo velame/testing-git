@@ -3,5 +3,6 @@ Venus
 Terra
 Marte
 Jupiter
-
+Saturno
+Urano
 
