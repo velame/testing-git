@@ -6,3 +6,5 @@ Jupiter
 Saturno
 Urano
 PLUTAO
+SOL
+
