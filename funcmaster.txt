@@ -1,0 +1,10 @@
+Mercurio
+Venus
+Terra
+Marte
+Jupiter
+Saturno
+Urano
+PLUTAO
+SOL
+
