@@ -6,3 +6,4 @@ Jupiter
 Saturno
 Urano
 SOL
+chuva
