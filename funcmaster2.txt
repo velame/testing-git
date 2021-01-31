@@ -4,7 +4,4 @@ Terra
 Marte
 Jupiter
 Saturno
-Urano
-PLUTAO
-SOL
 
